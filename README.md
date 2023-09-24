@@ -1,6 +1,9 @@
 # Data Visualization Using Excel:-
 
-Coffee Sales Dashboard:
+* Created a dashboard which will help the management of 'Cafe Coffee Today' to understant their business.
+* User can interact with dashboard to gain insights from data using filters.
+
+Preview of Coffee Sales Dashboard:
 
 ![image](https://github.com/umeaimanMerchant/Data_Visualization_Excel/assets/52196824/985e4765-5695-4ae2-9751-92977d4ddda1)
 
